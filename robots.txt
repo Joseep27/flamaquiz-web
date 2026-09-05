@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flamaquiz.es/sitemap.xml
